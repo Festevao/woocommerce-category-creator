@@ -1,0 +1,239 @@
+[
+  {
+    "name": "Apparel",
+    "slug": "apparel",
+    "subcategories": [
+      {
+        "name": "For Her",
+        "slug": "for-her",
+        "subcategories": [
+          {
+            "name": "Tops",
+            "slug": "tops",
+            "subcategories": [
+              {
+                "name": "Long Sleeves",
+                "slug": "Long Sleeves"
+              },
+              {
+                "name": "Short Sleeves",
+                "slug": "Short Sleeves"
+              },
+              {
+                "name": "Sleeveless",
+                "slug": "Sleeveless"
+              },
+              {
+                "name": "T-Shirts",
+                "slug": "T-Shirts"
+              },
+              {
+                "name": "Tunics",
+                "slug": "Tunics"
+              }
+            ]
+          },
+          {
+            "name": "Bottom",
+            "slug": "Bottom",
+            "subcategories": [
+              {
+                "name": "Leggins",
+                "slug": "Leggins"
+              },
+              {
+                "name": "Pants",
+                "slug": "Pants"
+              },
+              {
+                "name": "Skirts",
+                "slug": "Skirts"
+              }
+            ]
+          },
+          {
+            "name": "Dresses",
+            "slug": "Dresses",
+            "subcategories": [
+              {
+                "name": "Jumpsuit",
+                "slug": "Jumpsuit"
+              },
+              {
+                "name": "Long Sleeves",
+                "slug": "Long Sleeves"
+              },
+              {
+                "name": "Reversible",
+                "slug": "Reversible"
+              },
+              {
+                "name": "Short Sleeves",
+                "slug": "Short Sleeves"
+              },
+              {
+                "name": "Sleeveless",
+                "slug": "Sleeveless"
+              }
+            ]
+          },
+          {
+            "name": "Overpieces",
+            "slug": "overpieces",
+            "subcategories": [
+              {
+                "name": "Cardigans",
+                "slug": "Cardigans"
+              },
+              {
+                "name": "Cover-Ups",
+                "slug": "Cover-Ups"
+              },
+              {
+                "name": "Kimonos",
+                "slug": "Kimonos"
+              },
+              {
+                "name": "Ponchos",
+                "slug": "Ponchos"
+              },
+              {
+                "name": "Vests",
+                "slug": "Vests"
+              }
+            ]
+          },
+          {
+            "name": "Sleepwear",
+            "slug": "Sleepwear"
+          },
+          {
+            "name": "Footwear",
+            "slug": "Footwear"
+          },
+          {
+            "name": "Underwear",
+            "slug": "Underwear"
+          },
+          {
+            "name": "Swimwear",
+            "slug": "Swimwear"
+          },
+          {
+            "name": "Accessories",
+            "slug": "Accessories",
+            "subcategories": [
+              {
+                "name": "Belts",
+                "slug": "Belts"
+              },
+              {
+                "name": "Headbands",
+                "slug": "Headbands"
+              },
+              {
+                "name": "Scarves",
+                "slug": "Scarves"
+              },
+              {
+                "name": "Scrunchies",
+                "slug": "Scrunchies"
+              },
+              {
+                "name": "Shawls",
+                "slug": "Shawls"
+              },
+              {
+                "name": "Hats",
+                "slug": "Hats"
+              }
+            ]
+          },
+          {
+            "name": "Bags & Purses",
+            "slug": "Bags & Purses",
+            "subcategories": [
+              {
+                "name": "Pouches",
+                "slug": "Pouches"
+              },
+              {
+                "name": "Tote Bags",
+                "slug": "Tote Bags"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "For Him",
+        "slug": "for-him",
+        "subcategories": [
+          {
+            "name": "",
+            "slug": "",
+            "subcategories": []
+          }
+        ]
+      },
+      {
+        "name": "For Kids",
+        "slug": "for-kids",
+        "subcategories": [
+          {
+            "name": "",
+            "slug": "",
+            "subcategories": []
+          }
+        ]
+      },
+      {
+        "name": "For Babies",
+        "slug": "for-babies",
+        "subcategories": [
+          {
+            "name": "",
+            "slug": "",
+            "subcategories": []
+          }
+        ]
+      },
+      {
+        "name": "For Pets",
+        "slug": "for-pets"
+      }
+    ]
+  },
+  {
+    "name": "",
+    "slug": "",
+    "subcategories": [
+      {
+        "name": "",
+        "slug": "",
+        "subcategories": []
+      },
+      {
+        "name": "",
+        "slug": "",
+        "subcategories": []
+      }
+    ]
+  },
+  {
+    "name": "",
+    "slug": "",
+    "subcategories": [
+      {
+        "name": "",
+        "slug": "",
+        "subcategories": []
+      },
+      {
+        "name": "",
+        "slug": "",
+        "subcategories": []
+      }
+    ]
+  }
+]
